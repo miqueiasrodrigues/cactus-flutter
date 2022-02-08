@@ -1,1 +1,0 @@
-const DAMMY_PLANTS = {};
