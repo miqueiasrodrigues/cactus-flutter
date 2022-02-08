@@ -27,8 +27,8 @@ bool wState = true;
 ThreeWire myWire(datPin, clkPin, rstPin);
 RtcDS1302<ThreeWire> Rtc(myWire);
 
-const char* firebaseHost = "https://cactus-v3-default-rtdb.firebaseio.com/";
-const char* firebaseAuth = "JeBwHsYoW4axJ6cQOSK1CfcVhDoGXzr6fqv8EVcs";
+const char* firebaseHost = "";
+const char* firebaseAuth = "";
 
 
 const char* ssid;
