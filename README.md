@@ -1,7 +1,7 @@
 # Cactus :cactus:
 O cultivo de certos tipos de plantas exigem cuidados, pois existem plantas que são bastante sensíveis. O tempo de exposição à luz solar, a quantidade de água, e a temperatura, são elementos que se diferenciam para cada tipo de planta. A solução para quem deseja cultivar diferentes tipos de plantas em sua residência, mas não podem acompanhar o dia todo essas plantações, e para produtores locais que querem ter um maior domínio de sua cultura, para que tenham uma produção mais eficaz, rápida, sustentável e de baixo custo, foi um sistema automatizado que proporciona as condições ideias para o desenvolvimento adequado de uma determinada planta sem a necessidade do cultivador está presente no local, mas que tenha em mãos as informações de sua cultura. 
 
-<img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/Blue%20and%20White%20Simple%20Start-up%20Business%20Animated%20Presentation.png" width="580">
+<img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/Blue%20and%20White%20Simple%20Start-up%20Business%20Animated%20Presentation.png" width="620">
 
 ## Aplicativo Móvel :iphone:
 O Cactus é uma aplicativo desenvolvido para o sistema operacional Android, construído utilizando a linguagem de programação Dart e o Framework Flutter que possibilita realizar uma conexão de forma indireta com o microcontrolador ESP32, por meio do banco de dados Firebase. A aplicação tem a função de enviar informações para o ESP32 ou coletar e mostrar as informações vindas dele, para fazer o monitoramento de uma determinada plantação.
@@ -24,4 +24,4 @@ Para fazer isso, é preciso apertar na plantação que deseja ativar, e baixar o
 O sistema de irrigação automatizado que vai se conectar com o aplicativo móvel é desenvolvido utilizando o ESP32 e para sua programação, utilizou-se a linguagem de programação
 C/C++ que vai possibilitar fazer a coleta e envio das informações dos sensores para o banco de dados Firebase. O sistema de irrigação não pode iniciar sem o arquivo que faz a integração com o aplicativo móvel, pois é por meio do arquivo que o sistema se conecte com a internet e valida o usuário e a cultura, para poder operar de maneira adequada, de acordo com as informações daquela plantação que o usuário previamente definiu no aplicativo.
 
-<img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/sistema_completo.PNG" width="580">
+<img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/sistema_completo.PNG" width="620">
