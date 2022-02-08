@@ -12,4 +12,5 @@ Para fazer o cadastro de uma cultura é necessário apertar no botão verde com 
 
 ## Sistema de Irrigação :seedling:
 O sistema de irrigação automatizado que vai se conectar com o aplicativo móvel é desenvolvido utilizando o ESP32 e para sua programação, utilizou-se a linguagem de programação
-C/C++ para coletar e enviar as informações dos sensores para o banco de dados Firebase. O sistema de irrigação não pode iniciar sem o arquivo que faz a integração com o aplicativo móvel, pois é por meio do arquivo que o sistema se conecte com a internet e valida o usuário e a cultura, para poder operar de maneira adequada, de acordo com as informações daquela plantação que o usuário previamente definiu no aplicativo.
+C/C++ que vai possibilitar fazer a coleta e envio das informações dos sensores para o banco de dados Firebase. O sistema de irrigação não pode iniciar sem o arquivo que faz a integração com o aplicativo móvel, pois é por meio do arquivo que o sistema se conecte com a internet e valida o usuário e a cultura, para poder operar de maneira adequada, de acordo com as informações daquela plantação que o usuário previamente definiu no aplicativo.
+
