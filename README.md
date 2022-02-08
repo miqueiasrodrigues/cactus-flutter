@@ -8,15 +8,15 @@ A interface do Cactus é simples, possui um design que facilita sua utilização
 ele deve clicar em CRIAR SUA CONTA, nesta tela será solicitado que ele forneça os seus dados de cadastro, nome, e-mail, senha e uma foto (opcional). O e-mail fornecido será
 usado como Identificador (ID) do usuário, dessa forma, não é possível cadastrar duas ou mais contas com o mesmo e-mail.
 
-<img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/Tela_login.jpg" width="280"> <img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/Tela_cadastro.jpg" width="280">
+<img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/Tela_login.jpg" width="280"> <img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/video-2.gif" width="280">
 
 Para fazer o cadastro de uma cultura é necessário apertar no botão verde com o símbolo (:heavy_plus_sign:), onde o aplicativo vai redirecionar para a tela de cadastro de cultura, onde é inserido as informações da plantação. Depois de ter cadastrado a plantação vai aparecer na tela de início a cultura criada, mas com a situação Desativada, pois o ESP32 ainda não configurado para fazer a conexão com essa plantação.
 
-<img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/video-2.gif" width="280"> <img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/video-1.gif" width="280">
+<img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/video-1.gif" width="280"> <img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/video-3.gif" width="280">
 
 Para fazer isso, é preciso apertar na plantação que deseja ativar, e baixar o arquivo que está em Código do arquivo. Após ter baixado o arquivo que vai fazer a configuração do ESP32 é necessário renomear o arquivo para ***conf.txt***, pois o ESP32 vai ler o arquivo com esse nome, logo depois é preciso mover esse arquivo para um micro SD e inserir no local apropriado do protótipo. Após ter realizado a conexão com o protótipo a cultura vai ser ativada automaticamente, e dessa forma o usuário vai ter acesso ao monitoramento da sua plantação.
 
-<img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/video-3.gif" width="280"> <img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/Tela_ainda_não_recebeu_tempo_ideal.jpg" width="280">
+<img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/Tela_ainda_não_recebeu_tempo_ideal.jpg" width="280"> <img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/registros%20(1).jpeg" width="280">
 
 ## Sistema de Irrigação :seedling:
 O sistema de irrigação automatizado que vai se conectar com o aplicativo móvel é desenvolvido utilizando o ESP32 e para sua programação, utilizou-se a linguagem de programação
