@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
       future: _initialization,
       builder: (context, snapshot) {
         if (snapshot.hasError) {
-          print("Something went Wrong");
+          print("...");
         }
         if (snapshot.connectionState == ConnectionState.done) {
           return MultiProvider(
