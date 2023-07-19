@@ -1,4 +1,4 @@
-# Cactus :
+# Cactus :cactus:
 O cultivo de certos tipos de plantas exigem cuidados, pois existem plantas que são bastante sensíveis. O tempo de exposição à luz solar, a quantidade de água, e a temperatura, são elementos que se diferenciam para cada tipo de planta. A solução para quem deseja cultivar diferentes tipos de plantas em sua residência, mas não podem acompanhar o dia todo essas plantações, e para produtores locais que querem ter um maior domínio de sua cultura, para que tenham uma produção mais eficaz, rápida, sustentável e de baixo custo, foi um sistema automatizado que proporciona as condições ideias para o desenvolvimento adequado de uma determinada planta sem a necessidade do cultivador está presente no local, mas que tenha em mãos as informações de sua cultura. 
 
 <img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/Blue%20and%20White%20Simple%20Start-up%20Business%20Animated%20Presentation.png" width="620">
