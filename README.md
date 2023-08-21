@@ -26,4 +26,4 @@ C/C++ que vai possibilitar fazer a coleta e envio das informações dos sensores
 
 <img src="https://github.com/miqueiasrodrigues/Cactus/blob/main/assets/images/sistema_completo.PNG" width="640">
 
-[![Demonstração do Cactus](https://yt-embed.herokuapp.com/embed?v=50LPyHoISeY&t=51s)](https://www.youtube.com/watch?v=50LPyHoISeY&t=51s "Demonstração do Cactus")
+Demonstração do Cactus : https://www.youtube.com/watch?v=50LPyHoISeY&t=51s 
